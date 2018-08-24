@@ -1,0 +1,7 @@
+C:\Users\Kimberlee\Desktop\C#_Projects\Simple_Sentences\Simple_Sentences\bin\Debug\Simple_Sentences.exe.config
+C:\Users\Kimberlee\Desktop\C#_Projects\Simple_Sentences\Simple_Sentences\bin\Debug\Simple_Sentences.exe
+C:\Users\Kimberlee\Desktop\C#_Projects\Simple_Sentences\Simple_Sentences\bin\Debug\Simple_Sentences.pdb
+C:\Users\Kimberlee\Desktop\C#_Projects\Simple_Sentences\Simple_Sentences\obj\Debug\Simple_Sentences.csprojAssemblyReference.cache
+C:\Users\Kimberlee\Desktop\C#_Projects\Simple_Sentences\Simple_Sentences\obj\Debug\Simple_Sentences.csproj.CoreCompileInputs.cache
+C:\Users\Kimberlee\Desktop\C#_Projects\Simple_Sentences\Simple_Sentences\obj\Debug\Simple_Sentences.exe
+C:\Users\Kimberlee\Desktop\C#_Projects\Simple_Sentences\Simple_Sentences\obj\Debug\Simple_Sentences.pdb
